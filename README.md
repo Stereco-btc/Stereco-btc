@@ -3,7 +3,7 @@
     src="https://media.istockphoto.com/id/1472905256/photo/technology-background-microchip-on-a-circuit-board-with-a-red-data-rays-hacking-attack-concept.jpg?s=612x612&w=0&k=20&c=CLnWmjq1nzykSEM7ajyWU-KlwFJmSPfm7Ny-TAPk19w=" 
     alt="MasterHead" 
     width="860" 
-    height="300"
+    height="260"
     style="object-fit: cover;"
   >
 </p>
