@@ -7,6 +7,7 @@
     style="object-fit: cover;"
   >
 </p>
+
 # Hello! 🧑‍💻
 
 Welcome to the journey.
